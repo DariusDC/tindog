@@ -1,2 +1,1 @@
-# tindog
-Exercitiu
+TinDog Starting Files
